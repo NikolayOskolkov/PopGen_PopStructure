@@ -43,35 +43,9 @@ By completing this course, you will:
 | 15.00 - 15.30  | Course outline and practical information, introductions                                    | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/course_outline.pdf)                                                                                           |
 | 15.30 - 16.30  | Introduction to Next Generation Sequencing (NGS) data, BWA alignment and GATK workflow     | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/NGS_workflow_GATK.pdf)                                                                                        |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
-| 18.30 - 19.00  | Probabilistic variant calling from low-coverage data with ANGSD                            | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/ANGSD.pdf)                                                                                                    |
-| 19.00 - 21.00  | Practical: quality control, adapter removal, alignment, variant calling with ANGSD         | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                                                         |
+| 18.30 - 19.00  | Probabilistic variant calling from low-coverage genomics data with ANGSD                   | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/ANGSD.pdf)                                                                                                    |
+| 19.00 - 20.30  | Practical: quality control, adapter removal, alignment, variant calling with ANGSD         | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 20.30 - 21.00  | Questions and discussion                                                                   |
 
-
-## Day 2: 3 pm - 9 pm Swedish time
-
-| Time           | Activity                                                                                   | Link                                                                                                                                     |
-|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 14.00 - 15.00  | Authentication analysis: genomic hit confirmation and ancient status                       | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_Authentication.pdf)              |
-| 15.00 - 15.15  | Break                                                                                      |                                                                                                                                          |
-| 15.15 - 16.45  | Practical: genomic hit confirmation by evenness of coverage and damage pattern             | [Lab](exercises.md#genomic-hit-confirmation)                                                                                             |
-| 16.45 - 17.00  | Break                                                                                      |                                                                                                                                          |
-| 17.00 - 18.00  | Decontamination analysis of metegenomic data and eukaryotic reference genomes              | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_Decontamination.pdf)             |
-| 18.00 - 18.15  | Break                                                                                      |                                                                                                                                          |
-| 18.15 - 20.00  | Practical: microbial contamination correction and source tracking                          | [Lab](exercises.md#microbiome-contamination-correction)                                                                                  |
-
-
-## Day 3: 3 pm - 9 pm Swedish time
-
-| Time           | Activity                                                                                   | Link                                                                                                                                     |
-|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 14.00 - 14.15  | Bonus lecture: UMAP vs. PCA for population genomics and ancient metagenomics               | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/UMAP_NBIS_AI_IO_2025_Oskolkov.pdf)       |
-| 14.15 - 15.00  | aMeta: an accurate and memory-efficient ancient metagenomic profiling workflow             | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_aMeta.pdf)                       |
-| 15.00 - 15.15  | Break                                                                                      |                                                                                                                                          |
-| 15.15 - 16.45  | Practical: aMeta ancient metagenomic workflow                                              | [Lab](exercises.md#ameta-introduction-and-installation)                                                                                  |
-| 16.45 - 17.00  | Break                                                                                      |                                                                                                                                          |
-| 17.00 - 18.00  | Metagenome de-novo assembly, quality control, authentication of assembled contigs          | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_Assembly.pdf)                    |
-| 18.00 - 18.15  | Break                                                                                      |                                                                                                                                          |
-| 18.15 - 19.30  | Practical: de-novo assembly, quality control, authentication                               | [Lab](exercises.md#metagenome-assembly)                                                                                                  |
-| 19.30 - 20.00  | Questions an discussion                                                                    |                                                                                                                                          |
 
 
