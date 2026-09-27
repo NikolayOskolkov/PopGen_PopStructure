@@ -1,13 +1,13 @@
 ![](images/logo.png)
 
-# Ancient Metagenomics
+# Population Genomics and Structure Analysis
 
 ## Instructor
 
-- Dr. Nikolay Oskolkov, Lund University, NBIS SciLifeLab
+- Dr. Nikolay Oskolkov, Group Leader (PI) at NIRI, Riga, Latvia
 
 ## Course overview
-The study of ancient microbial, animal, and plant DNA from archaeological samples is a rapidly expanding field with significant potential for uncovering insights into past environments, lifestyles, and diseases. However, the limited quantity and degraded quality of ancient DNA pose significant challenges to computational analysis. In this course, we will explore the key challenges and analytical methods in ancient metagenomics, focusing on a comprehensive understanding and practical implementation of the ancient metagenomic workflow, aMeta.
+The study of genetic variation within and between populations using next-generation sequencing (NGS) data has become a cornerstone of modern population genomics, with wide-ranging applications in evolutionary biology, human genetics, conservation, and medical research. However, the analysis of low-coverage NGS data poses significant computational and statistical challenges, particularly when moving from raw sequencing reads to biologically meaningful inferences about population structure and demographic history. In this course, we will explore the key challenges and analytical methods in population genomics, focusing on a comprehensive understanding and practical implementation of the variant calling and population structure workflow spanning alignment, genotype likelihood-based inference with GATK and ANGSD, dimensionality reduction with PCA, tSNE and UMAP, admixture analysis, and population differentiation through Fst, F2, F3, and D-statistics of introgression.
 
 ## Target audience and assumed background
 We assume some basic awareness of UNIX environment, as well as at least beginner level of R and / or Python programming.
@@ -15,11 +15,12 @@ We assume some basic awareness of UNIX environment, as well as at least beginner
 ## Learning outcomes
 By completing this course, you will:
 
-- Understand the basics of ancient microbial and environmental metagenomic analysis
-- Have an overview of bioinformatic tools and best practices for ancient metagenomic analysis
-- Be able to apply aMeta workflow to your ancient metagenomic samples
-- Know key challenges, approaches and solutions in the ancient metagenomics research field
-- Be able to choose the right tools and approaches to answer your specific research question 
+- Understand the fundamentals of next-generation sequencing data and genetic variation in natural populations
+- Have an overview of bioinformatic tools and best practices for variant calling from low-coverage NGS data
+- Be able to perform alignment, genotype likelihood estimation, and variant calling with GATK and ANGSD on your own samples
+- Know the key challenges, approaches, and solutions in population structure and demographic inference
+- Be able to carry out PCA, admixture analysis, and Fst, F2, F3, and D-statistic computations to answer your specific research question
+- Be able to interpret population structure results and choose the right statistical framework for your study system 
 
 ---
 
