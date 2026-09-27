@@ -40,10 +40,11 @@ By completing this course, you will:
 
 | Time           | Activity                                                                                   |Link                                                                                                            |
 |----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 15.00 - 15.30  | Course outline and practical information                                                   | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/course_outline.pdf)                                                                                           |
-| 15.30 - 17.30  | Introduction: challenges in ancient microbial and environmental metagenomics               | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_IntroAncientMetagenomics.pdf)                                                                         |
+| 15.00 - 15.30  | Course outline and practical information                                                   | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/course_outline.pdf)                                                                                           |
+| 15.30 - 16.30  | Introduction to NGS analysis and GATK workflow                                             | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/NGS_workflow_GATK.pdf)                                                                         |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
-| 18.30 - 21.00  | Practical: quality control, adapter removal, alignment, variant calling                    | [Lab](exercises.md#getting-the-raw-data)                                                                                                         |
+| 18.30 - 19.00  | Introduction to NGS analysis and GATK workflow                                             | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_IntroAncientMetagenomics.pdf)                                                                         |
+| 19.00 - 21.00  | Practical: quality control, adapter removal, alignment, variant calling                    | [Lab](exercises.md#getting-the-raw-data)                                                                                                         |
 
 
 ## Day 2: 3 pm - 9 pm Swedish time
