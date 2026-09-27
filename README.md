@@ -28,31 +28,26 @@ By completing this course, you will:
 
 ## Before the course
 
-| Time   | Activity                                                                                           | Link                                                                                                                                     |
+| Time   | Activity                                                                                           |Link                                                                                                            |
 |--------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | ~ 1 h  | Recorded talk: AaRCademy workshop: aDNA data processing with Nikolay Oskolkov                      | [Video](https://www.youtube.com/watch?v=-nWoq6NTBd0&t=2121s)                                                                                           |
 | ~ 2 h  | Pipeline for analysis of highly degraded DNA from low-covarege samples                             | [PDF](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/articles/2026.04.20.719564v2.full.pdf)                                                                                 |
-| ~ 1 h  | Useful reading: The curse of dimensionality in genomics analysis                                   | [Blog](https://medium.com/data-science/genomics-new-clothes-6301ab9798a7?sk=db5db53c7f968add8a4b9a82579bf56d)                                                                          |
+| ~ 1 h  | Useful reading: how the curse of dimensionality complicates genomics analysis                      | [Blog](https://medium.com/data-science/genomics-new-clothes-6301ab9798a7?sk=db5db53c7f968add8a4b9a82579bf56d)                                                                          |
 | ~ 1 h  | In case needed: Recap on Unix                                                                      | [Lab](command-line-basics.md)                                                                                                    |
 
 
-## Day 1: 2 pm - 8 pm Berlin time
+## Day 1: 3 pm - 9 pm Swedish time
 
-| Time           | Activity                                                                                   | Link                                                                                                                                     |
+| Time           | Activity                                                                                   |Link                                                                                                            |
 |----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 14.00 - 14.30  | Course outline and practical information                                                   | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/course-outline-and-practical-info.pdf)   |
+| 15.00 - 15.30  | Course outline and practical information                                                   | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/course-outline-and-practical-info.pdf)   |
 | 14.30 - 15.30  | Introduction: challenges in ancient microbial and environmental metagenomics               | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_IntroAncientMetagenomics.pdf)    |
-| 15.30 - 15.45  | Break                                                                                      |                                                                                                                                          |
-| 15.45 - 16.30  | Quality control, adapter and host removal                                                  | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_QC_AdapterRemoval.pdf)           |
-| 16.30 - 16.45  | Break                                                                                      |                                                                                                                                          |
+| 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
 | 16.45 - 17.30  | Practical: quality control, adapter and host removal                                       | [Lab](exercises.md#getting-the-raw-data)                                                                                                 |
-| 17.30 - 17.45  | Break                                                                                      |                                                                                                                                          |
-| 17.45 - 18.45  | Taxonomic profiling and filtering criteria                                                 | [Slides](https://github.com/NikolayOskolkov/Physalia_AncientMetagenomics_2025/raw/master/slides/Lecture_TaxonomicProfiling.pdf)          |
-| 18.45 - 19.00  | Break                                                                                      |                                                                                                                                          |
 | 19.00 - 20.00  | Practical: taxonomic profiling in microbial and environmental ancient metagenomics         | [Lab](exercises.md#read-based-taxonomic-profiling)                                                                                       |
 
 
-## Day 2: 2 pm - 8 pm Berlin time
+## Day 2: 3 pm - 9 pm Swedish time
 
 | Time           | Activity                                                                                   | Link                                                                                                                                     |
 |----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +60,7 @@ By completing this course, you will:
 | 18.15 - 20.00  | Practical: microbial contamination correction and source tracking                          | [Lab](exercises.md#microbiome-contamination-correction)                                                                                  |
 
 
-## Day 3: 2 pm - 8 pm Berlin time
+## Day 3: 3 pm - 9 pm Swedish time
 
 | Time           | Activity                                                                                   | Link                                                                                                                                     |
 |----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
