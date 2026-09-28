@@ -50,3 +50,16 @@ By completing this course, you will:
 
 
 
+## Day 2: 3 pm - 9 pm Swedish time
+
+| Time           | Activity                                                                                   |Link                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15.00 - 16.00  | Principal Components Analysis (PCA) for population genomics applications                   | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day2/PCA_PopGen.pdf)                                                                                               |
+| 16.30 - 17.30  | Introduction to Next Generation Sequencing (NGS) data, BWA alignment and GATK workflow     | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/NGS_workflow_GATK.pdf)                                                                                        |
+| 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
+| 18.30 - 19.00  | Probabilistic variant calling from low-coverage genomics data with ANGSD                   | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day1/ANGSD.pdf)                                                                                                    |
+| 19.00 - 20.30  | Practical: quality control, adapter removal, alignment, variant calling with ANGSD         | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 20.30 - 21.00  | Questions and discussion                                                                   |
+
+
+
