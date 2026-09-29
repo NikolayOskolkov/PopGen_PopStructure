@@ -85,6 +85,16 @@ By completing this course, you will:
 | 15.00 - 16.00  | Introduction to selection and drift of allele frequencies: Wright-Fisher model             | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day4/selection.pdf)                                                                                                |
 | 16.00 - 17.30  | F-statistics and population history inference: computing Fst, F2, F3 on AADR dataset       | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day4/F_statistics.pdf)                                                                                             |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
-| 19.30 - 20.30  | Practical: computation of Fst from low-coverage data within ANGSD workflow                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 18.30 - 20.30  | Practical: computation of Fst from low-coverage data within ANGSD workflow                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 20.30 - 21.00  | Questions and discussion                                                                   |
+
+
+## Day 5: 3 pm - 9 pm Swedish time
+
+| Time           | Activity                                                                                   |Link                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15.00 - 17.30  | Introgression analysis with D-statistic and applications to ancient DNA                    | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day5/Dstat.pdf)                                                                                                |
+| 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
+| 18.30 - 20.30  | Practical: computation of D-statistic on Nenderthal and modern human genomics data         | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
