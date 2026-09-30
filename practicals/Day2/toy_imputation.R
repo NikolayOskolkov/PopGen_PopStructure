@@ -1,5 +1,7 @@
 my_mat<-data.frame(SNP1=c(0,1,1,0,1),SNP2=c(0,2,0,1,0),SNP3=c(0,1,0,0,1))
+
 rownames(my_mat)<-c("Ind1","Ind2","Ind3","Ind4","Ind5")
+
 my_mat
 
 my_mat_with_miss<-my_mat
