@@ -89,7 +89,7 @@ By completing this course, you will:
 | 16.00 - 17.30  | F-statistics and population history inference: computing Fst, F2, F3 on AADR dataset       | [Slides](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/slides/Day4/F_statistics.pdf)                                                                                             |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
 | 18.30 - 19.30  | Practical: computation of Fst from low-coverage data within ANGSD workflow                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
-| 19.30 - 20.30  | Practical: practicing natural selection vs genetic drift Wright-Fisher model               | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day4/Selection_vs_Drift.ipynb)                                                                      |
+| 19.30 - 20.30  | Practical: practicing natural selection vs genetic drift Wright-Fisher model               | [Lab](https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day4/Selection_vs_Drift.ipynb)                                                                                     |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
 
